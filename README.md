@@ -1,4 +1,4 @@
-# Palash's Bingo
+# [Palash's Bingo](https://bingo.palashsharma.com/play)
 
 This web app allows you to create a bingo board that the host can control through their smartphone. Players can also access tickets on their smartphones.
 
