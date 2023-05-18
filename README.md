@@ -1,4 +1,10 @@
-# bingo
+# Palash's Bingo
+
+This web app allows you to create a bingo board that the host can control through their smartphone. Players can also access tickets on their smartphones.
+
+This project uses Vue for its frontend and Firebase Realtime Database for its backend. 
+
+![alt text](https://github.com/PalashSharma20/bingo/blob/master/preview.png?raw=true)
 
 ## Project setup
 ```
