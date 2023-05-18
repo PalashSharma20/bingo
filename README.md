@@ -4,7 +4,7 @@ This web app allows you to create a bingo board that the host can control throug
 
 This project uses Vue for its frontend and Firebase Realtime Database for its backend. 
 
-![alt text](https://github.com/PalashSharma20/bingo/blob/master/preview.png?raw=true)
+![alt text](https://github.com/PalashSharma20/bingo/blob/master/bingo-preview.png?raw=true)
 
 ## Project setup
 ```
