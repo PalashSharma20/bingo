@@ -1,6 +1,6 @@
-# [Palash's Bingo](https://bingo.palashsharma.com/play)
+# [Palash's Bingo](https://bingo.palash.fyi/play)
 
-This web app allows you to create a bingo board that the host can control through their smartphone. Players can also access tickets on their smartphones.
+This web app allows you to create a bingo board that the host can control through their smartphone. Players can also access [tickets]([url](https://bingo.palash.fyi)) on their smartphones.
 
 This project uses Vue for its frontend and Firebase Realtime Database for its backend. 
 
